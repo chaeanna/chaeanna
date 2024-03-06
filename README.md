@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://velog.io/@annabcd99" target="tistory"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=tile&logo=velog&logoColor=20C997"/></a>
+<a href="annabcd16@gmail.com" target="gmail"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=tile&logo=gmail&logoColor=EA4335"/></a>
