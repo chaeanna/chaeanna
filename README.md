@@ -1,18 +1,18 @@
-### Hi there 👋
 
-<!--
-**chaeanna/chaeanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anna</h1>
 
-Here are some ideas to get you started:
+### 🐣 Contact Me
+<p>
+  <a href="https://velog.io/@annabcd99/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-F99F1C?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:annabcd16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/annabcd16@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:annabcd99@naver.com" target="_blank"><img src="https://img.shields.io/badge/annabcd99@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://velog.io/@annabcd99" target="tistory"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=tile&logo=velog&logoColor=20C997"/></a>
-<a href="annabcd16@gmail.com" target="gmail"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=tile&logo=gmail&logoColor=EA4335"/></a>
+
+<p>
+  🌱 Hi there! I'm a <b>hardworking</b> beginner in <b>backend development</b>, placing great importance on <b>effort</b>. I mainly work with <b>Java</b> and utilize the <b>Spring Boot</b> framework. Besides, I'm keen on learning about <b>data</b> and <b>infrastructure</b>, constantly <b>studying</b> to enhance my skills. I'm <b>excited</b> to join a team that values <b>growth</b> and <b>teamwork</b>! 🚀
+</p>
+
+
+### 🐥 Run
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeanna&show_icons=true&theme=radical)
