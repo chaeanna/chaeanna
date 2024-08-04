@@ -9,10 +9,6 @@
 </p>
 
 
-<p>
-  🌱 Hi there! I'm a <b>hardworking</b> beginner in <b>backend development</b>, placing great importance on <b>effort</b>. I mainly work with <b>Java</b> and utilize the <b>Spring Boot</b> framework. Besides, I'm keen on learning about <b>data</b> and <b>infrastructure</b>, constantly <b>studying</b> to enhance my skills. I'm <b>excited</b> to join a team that values <b>growth</b> and <b>teamwork</b>! 🚀
-</p>
-
 
 ### 🐥 Run
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeanna&show_icons=true&theme=radical)
